@@ -1,4 +1,4 @@
-### Hi there 👋, Hi, i'm Rick Mondal
+### Hi👋, i'm Rick Mondal
 #### I am coding enthusiast.
 B.Tech. IT student 👨‍💻 Passionate Web Developer || Learning || Exploring Open Source
 
