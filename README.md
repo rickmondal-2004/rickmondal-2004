@@ -10,7 +10,7 @@ B.Tech. IT student 👨‍💻 Passionate Web Developer || Learning || Exploring
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rickmondal-2004)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rick-mondal-480456258/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rick.mondol.338)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rickmondal_2004/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/RickMondal_2004)  [<img
-src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='hashnode' height='40'>](https://hashnode.com/@Rick2004)  [<img
+src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='hashnode' height='40'>](https://hashnode.com/@Rick2004)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickmondal-2004)](https://github.com/anuraghazra/github-readme-stats)
 
