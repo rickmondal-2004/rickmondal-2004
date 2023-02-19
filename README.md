@@ -1,6 +1,6 @@
 ### Hi👋, i'm Rick Mondal
 #### I am coding enthusiast.
-B.Tech. IT student 👨‍💻 Passionate Web Developer || Learning || Exploring Open Source
+B.Tech. IT student 👨‍💻 Passionate Web Developer || Learning Web Development || Exploring Open Source
 
 - 🌱 I’m currently learning Web Development 
 - 👯 I’m looking to collaborate on HTML, C and C++ 
