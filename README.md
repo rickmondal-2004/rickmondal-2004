@@ -18,9 +18,6 @@ src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='ha
 
 
 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rickmondal-2004&show_icons=true&locale=en&layout=compact" alt="rickmondal-2004" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rickmondal-2004&show_icons=true&locale=en" alt="rickmondal-2004" /></p>
 
