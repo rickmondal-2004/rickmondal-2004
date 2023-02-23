@@ -13,13 +13,7 @@ B.Tech. IT student 👨‍💻 Passionate Web Developer || Learning Web Developm
 src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='hashnode' height='40'>](https://hashnode.com/@Rick2004)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rickmondal-2004&show_icons=true)  
-
-
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rickmondal-2004&show_icons=true&locale=en" alt="rickmondal-2004" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rickmondal-2004&show_icons=true&locale=en" alt="rickmondal-2004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rickmondal-2004&" alt="rickmondal-2004" /></p>
 
