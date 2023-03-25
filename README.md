@@ -3,7 +3,7 @@
 B.Tech. IT student 👨‍💻 Passionate Web Developer || Learning Web Development || Exploring Open Source
 
 - 🌱 I’m currently learning Web Development 
-- 👯 I’m looking to collaborate on HTML, C and C++ 
+- 👯 I’m looking to collaborate on HTML, CSS, C and C++ 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: srick2004@gmail.com 
 - 😄 Pronouns: He/Him 
