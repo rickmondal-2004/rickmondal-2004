@@ -29,7 +29,7 @@
 
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=rickmondal-2004&show_icons=true&theme=synthwave" alt="Chandra-Sekhar-Bala :: Profile Stats" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rickmondal-2004&" alt="Chandra-Sekhar-Bala" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=rickmondal-2004&show_icons=true&theme=synthwave" alt="rickmondal-2004 :: Profile Stats" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rickmondal-2004&" alt="rickmondal-2004" /></p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickmondal-2004&layout=compact&theme=github_dark"/>
 </br>
