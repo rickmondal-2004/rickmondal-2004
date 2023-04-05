@@ -15,9 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/rickmondal_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rickmondal_2004" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rickmondal2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rickmondal2004" height="30" width="40" /></a>
-<a href="https://fb.com/rick.mondol.338" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rick.mondol.338" height="30" width="40" /></a>
-<a href="https://instagram.com/rickmondal_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rickmondal_2004" height="30" width="40" /></a>
-<a href="https://medium.com/@srick2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@srick2004" height="30" width="40" /></a>
+<a href="https://hashnode.com/@Rick2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@srick2004" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rickmondal_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rickmondal_2004" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/srick3zk1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="srick3zk1" height="30" width="40" /></a>
 </p>
