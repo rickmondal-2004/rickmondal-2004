@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👯 I’m looking to collaborate on **HTML, CSS, C and C++**
+- 👯 I’m looking to collaborate on **HTML, CSS, JavaSript, C and C++**
 
 - 📝 I regularly write articles on [https://rick2004.hashnode.dev/](https://rick2004.hashnode.dev/)
 
