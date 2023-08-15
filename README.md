@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rickmondal2004) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rickmondal_2004) 
 
 # 💻 Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=html,css,javascript,c,cpp,py,aws,gcp,nodejs,react,mongodb,mysql,ps,canva,pr,ae,figma,postman,blender,git,github,visualstudio,vscode,)
+![My Skills](https://skillicons.dev/icons?i=html,css,javascript,c,cpp,py,aws,gcp,nodejs,react,mongodb,mysql,ps,canva,pr,ae,figma,postman,blender,git,github,visualstudio,vscode,wordpress)
 
   
 # 📊 GitHub Stats:
