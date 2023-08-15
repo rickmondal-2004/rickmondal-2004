@@ -2,7 +2,7 @@
 <h3 align="center">A coding enthusiast from India.</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning Web Development and DSA<br>👯 I’m looking to collaborate on HTML, CSS, JavaScript, C and C++<br>💬 Ask me about Web Development<br>📝 I regularly write articles on https://rick2004.hashnode.dev/<br>⚡ Fun fact  🐞 : I don't squash bugs, I negotiate their peaceful exit.<br>📫 How to reach me srick2004@gmail.com<br>
+🌱 I’m currently learning **Web Development and DSA** <br>👯 I’m looking to collaborate on HTML, CSS, JavaScript, C and C++<br>💬 Ask me about Web Development<br>📝 I regularly write articles on https://rick2004.hashnode.dev/<br>⚡ Fun fact  🐞 : I don't squash bugs, I negotiate their peaceful exit.<br>📫 How to reach me srick2004@gmail.com<br>
 
 
 ## 🌐 Socials:
