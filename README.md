@@ -18,7 +18,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rickmondal-2004&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-[![](https://visitcount.itsvg.in/api?id=rickmondal-2004&icon=2&color=12)](https://visitcount.itsvg.in) 
+[![](https://visitcount.itsvg.in/api?id=rickmondal-2004&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
