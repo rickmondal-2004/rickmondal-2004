@@ -20,6 +20,10 @@
 
 [![](https://visitcount.itsvg.in/api?id=rickmondal-2004&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=rickmondal-2004&label=Profile%20Views&color=1&pretty=false" />
+</a>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
