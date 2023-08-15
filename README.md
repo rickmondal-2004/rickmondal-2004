@@ -22,7 +22,7 @@
 
 
 
-[![](https://visitcount.itsvg.in/api?id=rickmondal-2004&icon=2&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rickmondal-2004&icon=2&color=12)](https://visitcount.itsvg.in) 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
