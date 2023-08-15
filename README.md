@@ -21,13 +21,14 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rickmondal-2004&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-[![](https://visitcount.itsvg.in/api?id=rickmondal-2004&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
+
+---
+[![](https://visitcount.itsvg.in/api?id=rickmondal-2004&icon=0&color=6)](https://visitcount.itsvg.in)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-[![](https://visitcount.itsvg.in/api?id=rickmondal-2004&icon=0&color=6)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rickmondal2004) 
