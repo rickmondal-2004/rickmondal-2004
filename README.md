@@ -10,7 +10,7 @@
 
 
 # 💻 Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=html,css,javascript,c,cpp,py,aws,gcp,nodejs,react,flask,mongodb,mysql,ps,pr,ae,figma,postman,blender,git,github,visualstudio,vscode,wordpress)
+![My Skills](https://skillicons.dev/icons?i=html,css,javascript,c,cpp,py,aws,gcp,nodejs,react,flask,mongodb,mysql,ps,pr,ae,figma,postman,blender,git,github,visualstudio,vscode,replit,wordpress)
 
   
 # 📊 GitHub Stats:
